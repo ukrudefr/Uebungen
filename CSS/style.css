@@ -1,0 +1,18 @@
+body {
+	background-image: url(../SRC/img/clouds.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.a, .p, .c {
+	font-size: 30px;
+	transition-duration: 0.4s;
+}
+.a:hover {
+	background-color: #fff;
+}
+.c:hover {
+	background-color: #fff;
+}
+.p:hover {
+	background-color: #fff;
+}
